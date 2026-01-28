@@ -6,5 +6,6 @@ function dias(){
 }
 
 function color(){
-  document.getElementById("cuerpo").stylr.backgroundColor = purple;
+  document.getElementById("cuerpo").style.backgroundColor = purple;
+
 }
